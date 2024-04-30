@@ -1,0 +1,501 @@
+{
+    "abi": [
+        {
+          "inputs": [
+            {
+              "internalType": "contract IERC20",
+              "name": "_token",
+              "type": "address"
+            },
+            {
+              "internalType": "address",
+              "name": "_paymentReceiver",
+              "type": "address"
+            }
+          ],
+          "stateMutability": "nonpayable",
+          "type": "constructor"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "courseId", "type": "uint96" }
+          ],
+          "name": "CourseAlreadyAdded",
+          "type": "error"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "buyer", "type": "address" },
+            { "internalType": "uint256", "name": "courseId", "type": "uint256" }
+          ],
+          "name": "CourseAlreadyPurchased",
+          "type": "error"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "courseId", "type": "uint96" }
+          ],
+          "name": "CourseNotAdded",
+          "type": "error"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "courseId", "type": "uint96" },
+            { "internalType": "address", "name": "caller", "type": "address" }
+          ],
+          "name": "NotCourseAdmin",
+          "type": "error"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "caller", "type": "address" }
+          ],
+          "name": "OnlyAdmin",
+          "type": "error"
+        },
+        {
+          "inputs": [
+            { "internalType": "string", "name": "oldParamName", "type": "string" },
+            { "internalType": "string", "name": "newParamName", "type": "string" }
+          ],
+          "name": "SameValuedParam",
+          "type": "error"
+        },
+        { "inputs": [], "name": "ZeroAddress", "type": "error" },
+        {
+          "inputs": [
+            { "internalType": "string", "name": "paramName", "type": "string" }
+          ],
+          "name": "ZeroValuedInputParam",
+          "type": "error"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "admin",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "uint96",
+              "name": "id",
+              "type": "uint96"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "price",
+              "type": "uint256"
+            }
+          ],
+          "name": "CourseAdded",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "internalType": "uint96",
+              "name": "courseId",
+              "type": "uint96"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "oldPrice",
+              "type": "uint256"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "newPrice",
+              "type": "uint256"
+            }
+          ],
+          "name": "CoursePriceChanged",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "buyer",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "uint96",
+              "name": "id",
+              "type": "uint96"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "timestamp",
+              "type": "uint256"
+            }
+          ],
+          "name": "CoursePurchased",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "oldPaymentReceiverAddress",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "newPaymentReceiverAddress",
+              "type": "address"
+            }
+          ],
+          "name": "PaymentReceiverAddressChanged",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "recoveryAccount",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "token",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "receiver",
+              "type": "address"
+            },
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "amount",
+              "type": "uint256"
+            }
+          ],
+          "name": "Recovered",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "bytes32",
+              "name": "role",
+              "type": "bytes32"
+            },
+            {
+              "indexed": true,
+              "internalType": "bytes32",
+              "name": "previousAdminRole",
+              "type": "bytes32"
+            },
+            {
+              "indexed": true,
+              "internalType": "bytes32",
+              "name": "newAdminRole",
+              "type": "bytes32"
+            }
+          ],
+          "name": "RoleAdminChanged",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "bytes32",
+              "name": "role",
+              "type": "bytes32"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "sender",
+              "type": "address"
+            }
+          ],
+          "name": "RoleGranted",
+          "type": "event"
+        },
+        {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": true,
+              "internalType": "bytes32",
+              "name": "role",
+              "type": "bytes32"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            },
+            {
+              "indexed": true,
+              "internalType": "address",
+              "name": "sender",
+              "type": "address"
+            }
+          ],
+          "name": "RoleRevoked",
+          "type": "event"
+        },
+        {
+          "inputs": [],
+          "name": "ADMIN_ROLE",
+          "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [],
+          "name": "DEFAULT_ADMIN_ROLE",
+          "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "addAdminRole",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "_courseId", "type": "uint96" },
+            { "internalType": "uint256", "name": "_price", "type": "uint256" }
+          ],
+          "name": "addCourseInfo",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "_courseId", "type": "uint96" },
+            { "internalType": "uint256", "name": "_newPrice", "type": "uint256" }
+          ],
+          "name": "changeCoursePrice",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "newPaymentReceiverAddress",
+              "type": "address"
+            }
+          ],
+          "name": "changeReceivingPaymentAddress",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "uint96", "name": "_courseId", "type": "uint96" }
+          ],
+          "name": "fetchCourseInfo",
+          "outputs": [
+            {
+              "components": [
+                { "internalType": "uint96", "name": "courseId", "type": "uint96" },
+                { "internalType": "address", "name": "admin", "type": "address" },
+                { "internalType": "uint256", "name": "price", "type": "uint256" }
+              ],
+              "internalType": "struct MundoCryptoCoursePayments.CourseInfo",
+              "name": "courseInfo",
+              "type": "tuple"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "_user", "type": "address" },
+            { "internalType": "uint96", "name": "_courseId", "type": "uint96" }
+          ],
+          "name": "fetchIfCourseIsPurchaseByUserOrNot",
+          "outputs": [
+            { "internalType": "bool", "name": "isPurchased", "type": "bool" }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes32", "name": "role", "type": "bytes32" }
+          ],
+          "name": "getRoleAdmin",
+          "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes32", "name": "role", "type": "bytes32" },
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "grantRole",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes32", "name": "role", "type": "bytes32" },
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "hasRole",
+          "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "isAdmin",
+          "outputs": [
+            { "internalType": "bool", "name": "isRoleAssigned", "type": "bool" }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [],
+          "name": "paymentReceiver",
+          "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [],
+          "name": "paymentToken",
+          "outputs": [
+            { "internalType": "contract IERC20", "name": "", "type": "address" }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "_buyer", "type": "address" },
+            { "internalType": "uint96", "name": "_courseId", "type": "uint96" }
+          ],
+          "name": "purchaseCourse",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "_buyer", "type": "address" },
+            { "internalType": "uint96[]", "name": "_courseIds", "type": "uint96[]" }
+          ],
+          "name": "purchaseCourses",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "tokenAddress", "type": "address" },
+            { "internalType": "uint256", "name": "tokenAmount", "type": "uint256" },
+            { "internalType": "address", "name": "receiver", "type": "address" }
+          ],
+          "name": "recoverTokens",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "removeAdminRole",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes32", "name": "role", "type": "bytes32" },
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "renounceRole",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes32", "name": "role", "type": "bytes32" },
+            { "internalType": "address", "name": "account", "type": "address" }
+          ],
+          "name": "revokeRole",
+          "outputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "bytes4", "name": "interfaceId", "type": "bytes4" }
+          ],
+          "name": "supportsInterface",
+          "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
+          "stateMutability": "view",
+          "type": "function"
+        },
+        {
+          "inputs": [
+            { "internalType": "address", "name": "_user", "type": "address" }
+          ],
+          "name": "userPurchasedCourseIds",
+          "outputs": [
+            {
+              "internalType": "uint96[]",
+              "name": "purchasedCourseIds",
+              "type": "uint96[]"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        }
+      ]      
+}

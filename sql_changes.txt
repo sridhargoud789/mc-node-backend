@@ -1,0 +1,119 @@
+1 > create new table user_exam_reports
+
+CREATE TABLE user_exam_reports (
+id BIGINT(20) NOT NULL AUTO_INCREMENT,
+exam_id BIGINT(20),
+user_id bigint(20),
+course_id BIGINT(20),
+module_id bigint(20),
+ci_score text,
+ci_index text,
+report_data TEXT,
+report_shared_url TEXT,
+created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+PRIMARY KEY (id)
+);
+ALTER TABLE `user_exam_reports`
+ADD FOREIGN KEY (`exam_id`) REFERENCES `course_exams` (`id`);
+
+ALTER TABLE `user_exam_reports`
+CHANGE `user_id` `user_id` bigint(20) unsigned NULL AFTER `exam_id`,
+CHANGE `course_id` `course_id` bigint(20) unsigned NULL AFTER `user_id`,
+CHANGE `module_id` `module_id` int(11) NULL AFTER `course_id`,
+ADD FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
+ADD FOREIGN KEY (`course_id`) REFERENCES `courses` (`id`),
+ADD FOREIGN KEY (`module_id`) REFERENCES `course_modules` (`id`);
+
+
+
+2 > create exam_questions_mappings table
+
+CREATE TABLE exam_questions_mappings (
+id BIGINT(20) NOT NULL AUTO_INCREMENT,
+exam_id BIGINT(20),
+question_id bigint(20),
+shuffle_index int(20),
+created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+PRIMARY KEY (id),
+FOREIGN KEY (exam_id) REFERENCES course_exams(id),
+FOREIGN KEY (question_id) REFERENCES exam_questions(id)
+);
+
+3 > history_user_exams table add exam_reward to column
+
+ALTER TABLE `history_user_exams`
+ADD `exam_reward` double NOT NULL DEFAULT '0' AFTER `exam_id`;
+
+4 > create exam_questions table
+
+Done
+
+
+5 > Added exam_questions_mappings relation in course_exams table
+
+Done
+
+6 > update user que answer table answer column 
+
+Done
+
+7 > history_user_courses modified started_at column and add exam_available_expiry_time column , is_nft_minted , nft_data column
+
+alter table history_user_courses add column exam_available_expiry_time DATE after completed_at
+
+
+
+ALTER TABLE `exam_questions`
+ADD `option1` text COLLATE 'latin1_swedish_ci' NULL AFTER `question`,
+ADD `option2` text COLLATE 'latin1_swedish_ci' NULL AFTER `option1`,
+ADD `option3` text COLLATE 'latin1_swedish_ci' NULL AFTER `option2`,
+ADD `option4` text COLLATE 'latin1_swedish_ci' NULL AFTER `option3`;
+ALTER TABLE `exam_questions`
+DROP `answers`;
+
+
+CREATE TABLE `payment_installments` (
+  `id` bigint NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `user_id` bigint(20) unsigned NOT NULL,
+  `course_id` bigint(20) unsigned NOT NULL,
+  `transaction_id` text NOT NULL,
+  `amount` double NOT NULL,
+  `mct_amount_on_purchase` double NOT NULL,
+  `payment_with` varchar(20) NOT NULL COMMENT '\'coinbase\', \'paypal\', \'mct_token\', \'stripe\'',
+  `created_at` datetime NOT NULL ON UPDATE CURRENT_TIMESTAMP,
+  FOREIGN KEY (`user_id`) REFERENCES `users` (`id`),
+  FOREIGN KEY (`course_id`) REFERENCES `courses` (`id`)
+);
+ALTER TABLE `user_que_answers`
+ADD `option1` text COLLATE 'latin1_swedish_ci' NULL AFTER `question`,
+ADD `option2` text COLLATE 'latin1_swedish_ci' NULL AFTER `option1`,
+ADD `option3` text COLLATE 'latin1_swedish_ci' NULL AFTER `option2`,
+ADD `option4` text COLLATE 'latin1_swedish_ci' NULL AFTER `option3`;
+ALTER TABLE `user_que_answers`
+DROP `answers`;
+
+date 07-02-2023
+
+ALTER TABLE `courses_users`
+ADD `is_partial_payment` tinyint NULL DEFAULT '0',
+ADD `payment_devied_in` int(12) NULL AFTER `is_partial_payment`,
+ADD `remian_payments` int(12) NULL AFTER `payment_devied_in`,
+ADD `next_payment_date` date NULL AFTER `remian_payments`;
+
+ALTER TABLE `courses`
+ADD `is_partial_payment_available` tinyint NULL DEFAULT '0';
+
+
+ALTER TABLE `payment_installments`
+ADD `status` varchar(20) COLLATE 'latin1_swedish_ci' NOT NULL DEFAULT 'pending' AFTER `payment_with`;
+
+
+CREATE TABLE `referral_codes` (
+  `id` bigint NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `user_id` bigint(20) unsigned NOT NULL,
+  `course_id` bigint(20) unsigned NOT NULL,
+  `code` varchar(20) NOT NULL,
+  `discount_percentage` double NOT NULL
+);

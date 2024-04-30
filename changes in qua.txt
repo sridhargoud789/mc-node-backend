@@ -1,0 +1,1590 @@
+Update Amount is id 150 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 151 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 152 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 153 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 154 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 155 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 156 change amount 14.2210109455165 to 14.2210109455165
+Update Amount is id 157 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 158 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 159 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 160 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 161 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 162 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 163 change amount 14.10426254462758 to 14.104262544627579
+Update Amount is id 164 change amount 14.122416432998358 to 14.122416432998358
+Update Amount is id 179 change amount 14.14946010730205 to 14.14946010730205
+Update Amount is id 180 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 181 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 182 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 183 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 184 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 185 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 186 change amount 14.145030293736877 to 14.145030293736877
+Update Amount is id 187 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 188 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 189 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 190 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 191 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 192 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 193 change amount 14.261048550054678 to 14.261048550054678
+Update Amount is id 194 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 195 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 196 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 197 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 198 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 199 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 200 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 201 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 202 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 203 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 204 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 205 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 206 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 207 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 208 change amount 14.23475671379034 to 14.23475671379034
+Update Amount is id 209 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 210 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 211 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 212 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 213 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 214 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 215 change amount 14.166240461854002 to 14.166240461854002
+Update Amount is id 216 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 217 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 218 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 219 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 220 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 221 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 222 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 223 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 224 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 225 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 226 change amount 14.226480782312656 to 14.226480782312656
+Update Amount is id 227 change amount 14.29383069955516 to 14.293830699555159
+Update Amount is id 228 change amount 14.29383069955516 to 14.293830699555159
+Update Amount is id 229 change amount 14.386395369059905 to 14.386395369059905
+Update Amount is id 230 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 231 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 232 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 233 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 234 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 235 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 236 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 237 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 238 change amount 16.486052770771146 to 16.486052770771146
+Update Amount is id 239 change amount 16.329699096866044 to 16.329699096866044
+Update Amount is id 240 change amount 16.262293122268716 to 16.262293122268716
+Update Amount is id 241 change amount 16.262293122268716 to 16.262293122268716
+Update Amount is id 242 change amount 16.262293122268716 to 16.262293122268716
+Update Amount is id 243 change amount 16.948930303713194 to 16.948930303713194
+Update Amount is id 244 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 245 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 246 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 247 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 248 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 249 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 250 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 251 change amount 16.811139586546982 to 16.811139586546982
+Update Amount is id 252 change amount 17.38649764195329 to 17.38649764195329
+Update Amount is id 253 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 254 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 255 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 256 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 257 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 258 change amount 15.629375984634477 to 15.629375984634475
+Update Amount is id 259 change amount 16.356779464077967 to 16.356779464077967
+Update Amount is id 260 change amount 16.356779464077967 to 16.356779464077967
+Update Amount is id 261 change amount 16.334219816473766 to 16.334219816473766
+Update Amount is id 262 change amount 16.334219816473766 to 16.334219816473766
+Update Amount is id 263 change amount 16.334219816473766 to 16.334219816473766
+Update Amount is id 264 change amount 16.334219816473766 to 16.334219816473766
+Update Amount is id 265 change amount 16.334219816473766 to 16.334219816473766
+Update Amount is id 266 change amount 16.73692178155791 to 16.73692178155791
+Update Amount is id 267 change amount 16.815032315205276 to 16.815032315205276
+Update Amount is id 268 change amount 16.814548933728883 to 16.814548933728883
+Update Amount is id 269 change amount 1893.6419766930144 to 1893.6419766930146
+Update Amount is id 270 change amount 1895.738567370553 to 1895.738567370553
+Update Amount is id 271 change amount 15.14734522614289 to 15.14734522614289
+Update Amount is id 272 change amount 1893.4181532678613 to 1893.4181532678613
+Update Amount is id 273 change amount 19.997287348076814 to 19.997287348076814
+Update Amount is id 274 change amount 19.99812933441513 to 19.99812933441513
+Update Amount is id 275 change amount 19.998165235932387 to 19.998165235932387
+Update Amount is id 276 change amount 2489.824161588607 to 2489.824161588607
+Update Amount is id 277 change amount 2499.7464748035827 to 2499.7464748035827
+Update Amount is id 278 change amount 2499.7593092597567 to 2499.7593092597567
+Update Amount is id 279 change amount 2499.7331810565724 to 2499.7331810565724
+Update Amount is id 280 change amount 19.93018959458658 to 19.93018959458658
+Update Amount is id 281 change amount 2499.763091794068 to 2499.7630917940673
+Update Amount is id 282 change amount 2494.5693841855773 to 2494.5693841855773
+Update Amount is id 283 change amount 2479.9342482776024 to 2479.9342482776024
+Update Amount is id 284 change amount 2485.622513426469 to 2485.622513426469
+Update Amount is id 285 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 286 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 287 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 288 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 289 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 290 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 291 change amount 19.92191055810621 to 19.92191055810621
+Update Amount is id 292 change amount 2500.018208963329 to 2500.018208963329
+Update Amount is id 293 change amount 2500.019754635816 to 2500.019754635816
+Update Amount is id 294 change amount 19.998282478406026 to 19.998282478406026
+Update Amount is id 295 change amount 2500.4449378931085 to 2500.4449378931085
+Update Amount is id 296 change amount 2473.5693177006365 to 2473.5693177006365
+Update Amount is id 297 change amount 2497.6206637916957 to 2497.6206637916953
+Update Amount is id 298 change amount 2403.8518104889954 to 2403.8518104889954
+Update Amount is id 299 change amount 2433.7181788187427 to 2433.7181788187427
+Update Amount is id 300 change amount 2494.782984433119 to 2494.782984433119
+Update Amount is id 301 change amount 19.849284600950224 to 19.849284600950224
+Update Amount is id 302 change amount 19.849387519567063 to 19.849387519567063
+Update Amount is id 303 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 304 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 305 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 306 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 307 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 308 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 309 change amount 19.852645325216777 to 19.852645325216777
+Update Amount is id 310 change amount 2499.8380513718703 to 2499.8380513718703
+Update Amount is id 311 change amount 19.998704410974963 to 19.998704410974963
+Update Amount is id 312 change amount 19.998704410974963 to 19.998704410974963
+Update Amount is id 313 change amount 19.998704410974963 to 19.998704410974963
+Update Amount is id 314 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 315 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 316 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 317 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 318 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 319 change amount 19.96181854442857 to 19.961818544428574
+Update Amount is id 320 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 321 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 322 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 323 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 324 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 325 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 326 change amount 19.997414142965248 to 19.997414142965248
+Update Amount is id 327 change amount 19.996806108620817 to 19.996806108620817
+Update Amount is id 328 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 329 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 330 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 331 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 332 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 333 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 334 change amount 19.998391183071497 to 19.998391183071497
+Update Amount is id 335 change amount 2322.6496241122486 to 2322.6496241122486
+Update Amount is id 336 change amount 18.31704465683721 to 18.31704465683721
+Update Amount is id 337 change amount 2289.630582104652 to 2289.6305821046517
+Update Amount is id 338 change amount 2317.2581289634627 to 2317.2581289634627
+Update Amount is id 339 change amount 2301.620890666892 to 2301.620890666892
+Update Amount is id 340 change amount 2301.620890666892 to 2301.620890666892
+Update Amount is id 341 change amount 2264.159792582804 to 2264.159792582804
+Update Amount is id 342 change amount 2252.7107918868687 to 2252.7107918868687
+Update Amount is id 343 change amount 17.000914364208317 to 17.000914364208317
+Update Amount is id 344 change amount 2129.5894613680725 to 2129.5894613680725
+Update Amount is id 345 change amount 2118.50940117786 to 2118.50940117786
+Update Amount is id 346 change amount 2118.695571887289 to 2118.695571887289
+Update Amount is id 347 change amount 2118.3282463671285 to 2118.3282463671285
+Update Amount is id 348 change amount 2105.876367975477 to 2105.8763679754775
+Update Amount is id 349 change amount 16.821468332232637 to 16.821468332232637
+Update Amount is id 350 change amount 16.792922228579588 to 16.792922228579588
+Update Amount is id 351 change amount 16.792922228579588 to 16.792922228579588
+Update Amount is id 352 change amount 16.792922228579588 to 16.792922228579588
+Update Amount is id 353 change amount 16.79 to 16.792922228579588
+Update Amount is id 354 change amount 16.79 to 16.792922228579588
+Update Amount is id 355 change amount 16.79 to 16.792922228579588
+Update Amount is id 356 change amount 16.79 to 16.792922228579588
+Update Amount is id 357 change amount 2099.06 to 2099.064882892816
+Update Amount is id 358 change amount 2100.36 to 2100.360229157226
+Update Amount is id 359 change amount 2117.45 to 2117.4496424326117
+Update Amount is id 360 change amount 16.55 to 16.551096220431774
+Update Amount is id 361 change amount 16.55 to 16.551096220431774
+Update Amount is id 362 change amount 16.55 to 16.551096220431774
+Update Amount is id 363 change amount 16.55 to 16.551096220431774
+Update Amount is id 364 change amount 16.55 to 16.551096220431774
+Update Amount is id 365 change amount 16.55 to 16.551096220431774
+Update Amount is id 366 change amount 16.55 to 16.551096220431774
+Update Amount is id 367 change amount 2092.03 to 2092.027203999135
+Update Amount is id 368 change amount 16.88 to 16.87636225655478
+Update Amount is id 369 change amount 1959.19 to 1959.1883164437813
+Update Amount is id 370 change amount 16.03 to 16.032855566327996
+Update Amount is id 371 change amount 16.03 to 16.032855566327996
+Update Amount is id 372 change amount 16.03 to 16.032855566327996
+Update Amount is id 373 change amount 16.03 to 16.032855566327996
+Update Amount is id 374 change amount 16.03 to 16.032855566327996
+Update Amount is id 375 change amount 16.03 to 16.032855566327996
+Update Amount is id 376 change amount 16.03 to 16.032855566327996
+Update Amount is id 377 change amount 2004.11 to 2004.1069457909994
+Update Amount is id 378 change amount 2005.88 to 2005.879271495204
+Update Amount is id 379 change amount 16.05 to 16.051334436042325
+Update Amount is id 380 change amount 16.05 to 16.051334436042325
+Update Amount is id 381 change amount 16.05 to 16.051334436042325
+Update Amount is id 382 change amount 16.05 to 16.051334436042325
+Update Amount is id 383 change amount 16.05 to 16.051334436042325
+Update Amount is id 384 change amount 16.05 to 16.051334436042325
+Update Amount is id 385 change amount 16.05 to 16.051334436042325
+Update Amount is id 386 change amount 2037.49 to 2037.4866824284074
+Update Amount is id 387 change amount 2032.67 to 2032.6679176206044
+Update Amount is id 388 change amount 2034.95 to 2034.950938316045
+Update Amount is id 389 change amount 2036.33 to 2036.3295964704603
+Update Amount is id 390 change amount 2049.11 to 2049.114949345658
+Update Amount is id 391 change amount 2078.25 to 2078.2483967104913
+Update Amount is id 392 change amount 2080.36 to 2080.3615539334737
+Update Amount is id 393 change amount 2072.77 to 2072.7695045763057
+Update Amount is id 394 change amount 2070.25 to 2070.247574451839
+Update Amount is id 395 change amount 2047.02 to 2047.0236448432922
+Update Amount is id 396 change amount 16.4 to 16.396202108330385
+Update Amount is id 397 change amount 16.46 to 16.459656863786428
+Update Amount is id 398 change amount 16.2 to 16.202003459780038
+Update Amount is id 399 change amount 16.23 to 16.227889960124923
+Update Amount is id 400 change amount 16.25 to 16.249139817020055
+Update Amount is id 401 change amount 2032.81 to 2032.8127717609232
+Update Amount is id 402 change amount 16.37 to 16.367246675584138
+Update Amount is id 403 change amount 16.41 to 16.41385722411914
+Update Amount is id 404 change amount 16.41 to 16.41385722411914
+Update Amount is id 405 change amount 16.41 to 16.41385722411914
+Update Amount is id 406 change amount 16.41 to 16.41385722411914
+Update Amount is id 407 change amount 16.41 to 16.41385722411914
+Update Amount is id 408 change amount 16.41 to 16.41385722411914
+Update Amount is id 409 change amount 16.41 to 16.41385722411914
+Update Amount is id 410 change amount 16.59 to 16.589075449919385
+Update Amount is id 411 change amount 16.59 to 16.589075449919385
+Update Amount is id 412 change amount 16.59 to 16.589075449919385
+Update Amount is id 413 change amount 16.59 to 16.589075449919385
+Update Amount is id 414 change amount 16.59 to 16.589075449919385
+Update Amount is id 415 change amount 16.59 to 16.589075449919385
+Update Amount is id 416 change amount 16.59 to 16.589075449919385
+Update Amount is id 417 change amount 2034.57 to 2034.5746378708493
+Update Amount is id 418 change amount 2078.79 to 2078.7876933885373
+Update Amount is id 419 change amount 16.58 to 16.57554096620592
+Update Amount is id 420 change amount 16.46 to 16.456848030484146
+Update Amount is id 421 change amount 16.46 to 16.456848030484146
+Update Amount is id 422 change amount 16.46 to 16.456848030484146
+Update Amount is id 423 change amount 16.46 to 16.456848030484146
+Update Amount is id 424 change amount 16.46 to 16.456848030484146
+Update Amount is id 425 change amount 16.46 to 16.456848030484146
+Update Amount is id 426 change amount 16.46 to 16.456848030484146
+Update Amount is id 427 change amount 2028.65 to 2028.6524431644898
+Update Amount is id 428 change amount 2037.54 to 2037.5357500491893
+
+
+
+Log for updating purchase amount in mct for history_course_user table
+
+
+
+
+Update Amount is id 82 change amount 2959 to 1987
+Update Amount is id 90 change amount 2959 to 1948
+
+
+lgo for updating user transaction table amount
+
+
+
+userCourserId 150 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 150 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 151 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 151 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 152 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 152 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 153 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 153 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 154 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 154 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 155 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 155 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 156 { purchased_amount: 14.2210109455165, reward_amount: 17.0652131346198 }
+history course id 156 changing reward point from 17.0652 to 17.0652131346198
+userCourserId 157 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 157 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 158 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 158 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 159 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 159 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 160 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 160 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 161 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 161 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 162 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 162 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 163 {
+  purchased_amount: 14.104262544627579,
+  reward_amount: 16.925115053553096
+}
+history course id 163 changing reward point from 16.9251 to 16.925115053553096
+userCourserId 164 {
+  purchased_amount: 14.122416432998358,
+  reward_amount: 16.94689971959803
+}
+history course id 164 changing reward point from 16.9469 to 16.94689971959803
+userCourserId 179 {
+  purchased_amount: 14.14946010730205,
+  reward_amount: 16.97935212876246
+}
+history course id 179 changing reward point from 16.9794 to 16.97935212876246
+userCourserId 180 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 180 changing reward point from 16.974 to 16.97403635248425
+userCourserId 181 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 181 changing reward point from 16.974 to 16.97403635248425
+userCourserId 182 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 182 changing reward point from 16.974 to 16.97403635248425
+userCourserId 183 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 183 changing reward point from 16.974 to 16.97403635248425
+userCourserId 184 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 184 changing reward point from 16.974 to 16.97403635248425
+userCourserId 185 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 185 changing reward point from 16.974 to 16.97403635248425
+userCourserId 186 {
+  purchased_amount: 14.145030293736877,
+  reward_amount: 16.97403635248425
+}
+history course id 186 changing reward point from 16.974 to 16.97403635248425
+userCourserId 187 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 187 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 188 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 188 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 189 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 189 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 190 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 190 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 191 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 191 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 192 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 192 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 193 {
+  purchased_amount: 14.261048550054678,
+  reward_amount: 17.113258260065614
+}
+history course id 193 changing reward point from 17.1133 to 17.113258260065614
+userCourserId 194 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 194 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 195 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 195 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 196 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 196 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 197 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 197 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 198 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 198 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 199 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 199 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 200 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 200 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 201 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 201 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 202 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 202 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 203 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 203 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 204 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 204 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 205 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 205 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 206 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 206 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 207 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 207 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 208 {
+  purchased_amount: 14.23475671379034,
+  reward_amount: 17.081708056548408
+}
+history course id 208 changing reward point from 17.0817 to 17.081708056548408
+userCourserId 209 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 209 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 210 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 210 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 211 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 211 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 212 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 212 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 213 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 213 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 214 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 214 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 215 {
+  purchased_amount: 14.166240461854002,
+  reward_amount: 16.999488554224804
+}
+history course id 215 changing reward point from 16.9995 to 16.999488554224804
+userCourserId 216 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 216 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 217 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 217 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 218 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 218 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 219 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 219 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 220 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 220 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 221 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 221 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 222 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 222 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 223 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 223 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 224 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 224 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 225 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 225 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 226 {
+  purchased_amount: 14.226480782312656,
+  reward_amount: 17.071776938775187
+}
+history course id 226 changing reward point from 17.0718 to 17.071776938775187
+userCourserId 227 {
+  purchased_amount: 14.293830699555159,
+  reward_amount: 17.15259683946619
+}
+history course id 227 changing reward point from 17.1526 to 17.15259683946619
+userCourserId 228 {
+  purchased_amount: 14.293830699555159,
+  reward_amount: 17.15259683946619
+}
+history course id 228 changing reward point from 17.1526 to 17.15259683946619
+userCourserId 229 {
+  purchased_amount: 14.386395369059905,
+  reward_amount: 17.263674442871885
+}
+history course id 229 changing reward point from 17.2637 to 17.263674442871885
+userCourserId 230 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 230 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 231 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 231 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 232 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 232 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 233 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 233 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 234 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 234 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 235 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 235 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 236 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 236 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 237 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 237 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 238 {
+  purchased_amount: 16.486052770771146,
+  reward_amount: 19.783263324925375
+}
+history course id 238 changing reward point from 19.7833 to 19.783263324925375
+userCourserId 239 {
+  purchased_amount: 16.329699096866044,
+  reward_amount: 19.595638916239253
+}
+history course id 239 changing reward point from 19.5956 to 19.595638916239253
+userCourserId 240 {
+  purchased_amount: 16.262293122268716,
+  reward_amount: 19.51475174672246
+}
+history course id 240 changing reward point from 19.5148 to 19.51475174672246
+userCourserId 241 {
+  purchased_amount: 16.262293122268716,
+  reward_amount: 19.51475174672246
+}
+history course id 241 changing reward point from 19.5148 to 19.51475174672246
+userCourserId 242 {
+  purchased_amount: 16.262293122268716,
+  reward_amount: 19.51475174672246
+}
+history course id 242 changing reward point from 19.5148 to 19.51475174672246
+userCourserId 243 {
+  purchased_amount: 16.948930303713194,
+  reward_amount: 20.338716364455834
+}
+history course id 243 changing reward point from 20.3387 to 20.338716364455834
+userCourserId 244 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 244 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 245 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 245 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 246 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 246 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 247 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 247 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 248 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 248 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 249 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 249 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 250 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 250 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 251 {
+  purchased_amount: 16.811139586546982,
+  reward_amount: 20.17336750385638
+}
+history course id 251 changing reward point from 20.1734 to 20.17336750385638
+userCourserId 252 {
+  purchased_amount: 17.38649764195329,
+  reward_amount: 20.86379717034395
+}
+history course id 252 changing reward point from 20.8638 to 20.86379717034395
+userCourserId 253 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 253 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 254 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 254 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 255 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 255 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 256 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 256 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 257 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 257 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 258 {
+  purchased_amount: 15.629375984634475,
+  reward_amount: 18.75525118156137
+}
+history course id 258 changing reward point from 18.7553 to 18.75525118156137
+userCourserId 259 {
+  purchased_amount: 16.356779464077967,
+  reward_amount: 19.62813535689356
+}
+history course id 259 changing reward point from 19.6281 to 19.62813535689356
+userCourserId 260 {
+  purchased_amount: 16.356779464077967,
+  reward_amount: 19.62813535689356
+}
+history course id 260 changing reward point from 19.6281 to 19.62813535689356
+userCourserId 261 {
+  purchased_amount: 16.334219816473766,
+  reward_amount: 19.60106377976852
+}
+history course id 261 changing reward point from 19.6011 to 19.60106377976852
+userCourserId 262 {
+  purchased_amount: 16.334219816473766,
+  reward_amount: 19.60106377976852
+}
+history course id 262 changing reward point from 19.6011 to 19.60106377976852
+userCourserId 263 {
+  purchased_amount: 16.334219816473766,
+  reward_amount: 19.60106377976852
+}
+history course id 263 changing reward point from 19.6011 to 19.60106377976852
+userCourserId 264 {
+  purchased_amount: 16.334219816473766,
+  reward_amount: 19.60106377976852
+}
+history course id 264 changing reward point from 19.6011 to 19.60106377976852
+userCourserId 265 {
+  purchased_amount: 16.334219816473766,
+  reward_amount: 19.60106377976852
+}
+history course id 265 changing reward point from 19.6011 to 19.60106377976852
+userCourserId 266 {
+  purchased_amount: 16.73692178155791,
+  reward_amount: 20.084306137869493
+}
+history course id 266 changing reward point from 20.0843 to 20.084306137869493
+userCourserId 267 {
+  purchased_amount: 16.815032315205276,
+  reward_amount: 20.178038778246332
+}
+history course id 267 changing reward point from 20.178 to 20.178038778246332
+userCourserId 268 {
+  purchased_amount: 16.814548933728883,
+  reward_amount: 20.17745872047466
+}
+history course id 268 changing reward point from 20.1775 to 20.17745872047466
+userCourserId 269 {
+  purchased_amount: 1893.6419766930146,
+  reward_amount: 2272.3703720316175
+}
+history course id 269 changing reward point from 2272.37 to 2272.3703720316175
+userCourserId 270 {
+  purchased_amount: 1895.738567370553,
+  reward_amount: 2274.886280844664
+}
+history course id 270 changing reward point from 2274.89 to 2274.886280844664
+userCourserId 271 {
+  purchased_amount: 15.14734522614289,
+  reward_amount: 18.17681427137147
+}
+history course id 271 changing reward point from 18.1768 to 18.17681427137147
+userCourserId 272 {
+  purchased_amount: 1893.4181532678613,
+  reward_amount: 2272.1017839214337
+}
+history course id 272 changing reward point from 2272.1 to 2272.1017839214337
+userCourserId 273 {
+  purchased_amount: 19.997287348076814,
+  reward_amount: 23.996744817692175
+}
+history course id 273 changing reward point from 23.9967 to 23.996744817692175
+userCourserId 274 {
+  purchased_amount: 19.99812933441513,
+  reward_amount: 23.997755201298155
+}
+history course id 274 changing reward point from 23.9978 to 23.997755201298155
+userCourserId 275 {
+  purchased_amount: 19.998165235932387,
+  reward_amount: 23.997798283118865
+}
+history course id 275 changing reward point from 23.9978 to 23.997798283118865
+userCourserId 276 {
+  purchased_amount: 2489.824161588607,
+  reward_amount: 2987.788993906328
+}
+history course id 276 changing reward point from 2987.79 to 2987.788993906328
+userCourserId 277 {
+  purchased_amount: 2499.7464748035827,
+  reward_amount: 2999.6957697642993
+}
+history course id 277 changing reward point from 2999.7 to 2999.6957697642993
+userCourserId 278 {
+  purchased_amount: 2499.7593092597567,
+  reward_amount: 2999.711171111708
+}
+history course id 278 changing reward point from 2999.71 to 2999.711171111708
+userCourserId 279 {
+  purchased_amount: 2499.7331810565724,
+  reward_amount: 2999.679817267887
+}
+history course id 279 changing reward point from 2999.68 to 2999.679817267887
+userCourserId 280 {
+  purchased_amount: 19.93018959458658,
+  reward_amount: 23.916227513503895
+}
+history course id 280 changing reward point from 23.9162 to 23.916227513503895
+userCourserId 281 {
+  purchased_amount: 2499.7630917940673,
+  reward_amount: 2999.715710152881
+}
+history course id 281 changing reward point from 2999.72 to 2999.715710152881
+userCourserId 282 {
+  purchased_amount: 2494.5693841855773,
+  reward_amount: 2993.4832610226927
+}
+history course id 282 changing reward point from 2993.48 to 2993.4832610226927
+userCourserId 283 {
+  purchased_amount: 2479.9342482776024,
+  reward_amount: 2975.921097933123
+}
+history course id 283 changing reward point from 2975.92 to 2975.921097933123
+userCourserId 284 {
+  purchased_amount: 2485.622513426469,
+  reward_amount: 2982.747016111763
+}
+history course id 284 changing reward point from 2982.75 to 2982.747016111763
+userCourserId 285 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 285 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 286 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 286 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 287 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 287 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 288 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 288 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 289 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 289 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 290 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 290 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 291 {
+  purchased_amount: 19.92191055810621,
+  reward_amount: 23.90629266972745
+}
+history course id 291 changing reward point from 23.9063 to 23.90629266972745
+userCourserId 292 {
+  purchased_amount: 2500.018208963329,
+  reward_amount: 3000.021850755995
+}
+history course id 292 changing reward point from 3000.02 to 3000.021850755995
+userCourserId 293 {
+  purchased_amount: 2500.019754635816,
+  reward_amount: 3000.023705562979
+}
+history course id 293 changing reward point from 3000.02 to 3000.023705562979
+userCourserId 294 {
+  purchased_amount: 19.998282478406026,
+  reward_amount: 23.99793897408723
+}
+history course id 294 changing reward point from 23.9979 to 23.99793897408723
+userCourserId 295 {
+  purchased_amount: 2500.4449378931085,
+  reward_amount: 3000.53392547173
+}
+history course id 295 changing reward point from 3000.53 to 3000.53392547173
+userCourserId 296 {
+  purchased_amount: 2473.5693177006365,
+  reward_amount: 2968.283181240764
+}
+history course id 296 changing reward point from 2968.28 to 2968.283181240764
+userCourserId 297 {
+  purchased_amount: 2497.6206637916953,
+  reward_amount: 2997.1447965500342
+}
+history course id 297 changing reward point from 2997.14 to 2997.1447965500342
+userCourserId 298 {
+  purchased_amount: 2403.8518104889954,
+  reward_amount: 2884.6221725867945
+}
+history course id 298 changing reward point from 2884.62 to 2884.6221725867945
+userCourserId 299 {
+  purchased_amount: 2433.7181788187427,
+  reward_amount: 2920.461814582491
+}
+history course id 299 changing reward point from 2920.46 to 2920.461814582491
+userCourserId 300 {
+  purchased_amount: 2494.782984433119,
+  reward_amount: 2993.7395813197427
+}
+history course id 300 changing reward point from 2993.74 to 2993.7395813197427
+userCourserId 301 {
+  purchased_amount: 19.849284600950224,
+  reward_amount: 23.819141521140267
+}
+history course id 301 changing reward point from 23.8191 to 23.819141521140267
+userCourserId 302 {
+  purchased_amount: 19.849387519567063,
+  reward_amount: 23.819265023480476
+}
+history course id 302 changing reward point from 23.8193 to 23.819265023480476
+userCourserId 303 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 303 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 304 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 304 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 305 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 305 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 306 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 306 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 307 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 307 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 308 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 308 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 309 {
+  purchased_amount: 19.852645325216777,
+  reward_amount: 23.82317439026013
+}
+history course id 309 changing reward point from 23.8232 to 23.82317439026013
+userCourserId 310 {
+  purchased_amount: 2499.8380513718703,
+  reward_amount: 2999.8056616462445
+}
+history course id 310 changing reward point from 2999.81 to 2999.8056616462445
+userCourserId 311 {
+  purchased_amount: 19.998704410974963,
+  reward_amount: 23.998445293169954
+}
+history course id 311 changing reward point from 23.9984 to 23.998445293169954
+userCourserId 312 {
+  purchased_amount: 19.998704410974963,
+  reward_amount: 23.998445293169954
+}
+history course id 312 changing reward point from 23.9984 to 23.998445293169954
+userCourserId 313 {
+  purchased_amount: 19.998704410974963,
+  reward_amount: 23.998445293169954
+}
+history course id 313 changing reward point from 23.9984 to 23.998445293169954
+Cron to set reward points
+userCourserId 314 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 314 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 315 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 315 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 316 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 316 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 317 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 317 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 318 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 318 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 319 {
+  purchased_amount: 19.961818544428574,
+  reward_amount: 23.95418225331429
+}
+history course id 319 changing reward point from 23.9542 to 23.95418225331429
+userCourserId 320 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 320 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 321 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 321 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 322 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 322 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 323 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 323 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 324 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 324 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 325 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 325 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 326 {
+  purchased_amount: 19.997414142965248,
+  reward_amount: 23.996896971558296
+}
+history course id 326 changing reward point from 23.9969 to 23.996896971558296
+userCourserId 327 {
+  purchased_amount: 19.996806108620817,
+  reward_amount: 23.99616733034498
+}
+history course id 327 changing reward point from 23.9962 to 23.99616733034498
+userCourserId 328 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 328 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 329 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 329 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 330 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 330 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 331 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 331 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 332 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 332 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 333 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 333 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 334 {
+  purchased_amount: 19.998391183071497,
+  reward_amount: 23.998069419685798
+}
+history course id 334 changing reward point from 23.9981 to 23.998069419685798
+userCourserId 335 {
+  purchased_amount: 2322.6496241122486,
+  reward_amount: 2787.1795489346982
+}
+history course id 335 changing reward point from 2787.18 to 2787.1795489346982
+userCourserId 336 {
+  purchased_amount: 18.31704465683721,
+  reward_amount: 21.980453588204654
+}
+history course id 336 changing reward point from 21.9805 to 21.980453588204654
+userCourserId 337 {
+  purchased_amount: 2289.6305821046517,
+  reward_amount: 2747.556698525582
+}
+history course id 337 changing reward point from 2747.56 to 2747.556698525582
+userCourserId 338 {
+  purchased_amount: 2317.2581289634627,
+  reward_amount: 2780.7097547561552
+}
+history course id 338 changing reward point from 2780.71 to 2780.7097547561552
+userCourserId 339 {
+  purchased_amount: 2301.620890666892,
+  reward_amount: 2761.9450688002707
+}
+history course id 339 changing reward point from 2761.95 to 2761.9450688002707
+userCourserId 340 {
+  purchased_amount: 2301.620890666892,
+  reward_amount: 2761.9450688002707
+}
+history course id 340 changing reward point from 2761.95 to 2761.9450688002707
+userCourserId 341 {
+  purchased_amount: 2264.159792582804,
+  reward_amount: 2716.991751099365
+}
+history course id 341 changing reward point from 2716.99 to 2716.991751099365
+userCourserId 342 {
+  purchased_amount: 2252.7107918868687,
+  reward_amount: 2703.2529502642424
+}
+history course id 342 changing reward point from 2703.25 to 2703.2529502642424
+userCourserId 343 {
+  purchased_amount: 17.000914364208317,
+  reward_amount: 20.40109723704998
+}
+history course id 343 changing reward point from 20.4011 to 20.40109723704998
+userCourserId 344 {
+  purchased_amount: 2129.5894613680725,
+  reward_amount: 2555.507353641687
+}
+history course id 344 changing reward point from 2555.51 to 2555.507353641687
+userCourserId 345 {
+  purchased_amount: 2118.50940117786,
+  reward_amount: 2542.211281413432
+}
+history course id 345 changing reward point from 2542.21 to 2542.211281413432
+userCourserId 346 {
+  purchased_amount: 2118.695571887289,
+  reward_amount: 2542.434686264747
+}
+history course id 346 changing reward point from 2542.43 to 2542.434686264747
+userCourserId 347 {
+  purchased_amount: 2118.3282463671285,
+  reward_amount: 2541.993895640554
+}
+history course id 347 changing reward point from 2541.99 to 2541.993895640554
+userCourserId 348 {
+  purchased_amount: 2105.8763679754775,
+  reward_amount: 2527.051641570573
+}
+history course id 348 changing reward point from 2527.05 to 2527.051641570573
+userCourserId 349 {
+  purchased_amount: 16.821468332232637,
+  reward_amount: 20.185761998679165
+}
+history course id 349 changing reward point from 20.1858 to 20.185761998679165
+userCourserId 350 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 350 changing reward point from 20.1515 to 20.151506674295504
+userCourserId 351 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 351 changing reward point from 20.1515 to 20.151506674295504
+userCourserId 352 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 352 changing reward point from 20.1515 to 20.151506674295504
+userCourserId 353 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 353 changing reward point from 2.4 to 20.151506674295504
+userCourserId 354 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 354 changing reward point from 2.4 to 20.151506674295504
+userCourserId 355 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 355 changing reward point from 2.4 to 20.151506674295504
+userCourserId 356 {
+  purchased_amount: 16.792922228579588,
+  reward_amount: 20.151506674295504
+}
+history course id 356 changing reward point from 2.4 to 20.151506674295504
+userCourserId 357 {
+  purchased_amount: 2099.064882892816,
+  reward_amount: 2518.8778594713795
+}
+history course id 357 changing reward point from 300 to 2518.8778594713795
+userCourserId 358 {
+  purchased_amount: 2100.360229157226,
+  reward_amount: 2520.4322749886715
+}
+history course id 358 changing reward point from 300 to 2520.4322749886715
+userCourserId 359 {
+  purchased_amount: 2117.4496424326117,
+  reward_amount: 2540.939570919134
+}
+history course id 359 changing reward point from 300 to 2540.939570919134
+userCourserId 360 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 360 changing reward point from 2.4 to 19.86131546451813
+userCourserId 361 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 361 changing reward point from 2.4 to 19.86131546451813
+userCourserId 362 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 362 changing reward point from 2.4 to 19.86131546451813
+userCourserId 363 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 363 changing reward point from 2.4 to 19.86131546451813
+userCourserId 364 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 364 changing reward point from 2.4 to 19.86131546451813
+userCourserId 365 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 365 changing reward point from 2.4 to 19.86131546451813
+userCourserId 366 {
+  purchased_amount: 16.551096220431774,
+  reward_amount: 19.86131546451813
+}
+history course id 366 changing reward point from 2.4 to 19.86131546451813
+userCourserId 367 {
+  purchased_amount: 2092.027203999135,
+  reward_amount: 2510.432644798962
+}
+history course id 367 changing reward point from 300 to 2510.432644798962
+userCourserId 368 {
+  purchased_amount: 16.87636225655478,
+  reward_amount: 20.251634707865737
+}
+history course id 368 changing reward point from 20.2516 to 20.251634707865737
+userCourserId 369 {
+  purchased_amount: 1959.1883164437813,
+  reward_amount: 2351.0259797325375
+}
+history course id 369 changing reward point from 2351.03 to 2351.0259797325375
+userCourserId 370 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 370 changing reward point from 2.4 to 19.239426679593596
+userCourserId 371 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 371 changing reward point from 2.4 to 19.239426679593596
+userCourserId 372 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 372 changing reward point from 19.2394 to 19.239426679593596
+userCourserId 373 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 373 changing reward point from 19.2394 to 19.239426679593596
+userCourserId 374 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 374 changing reward point from 2.4 to 19.239426679593596
+userCourserId 375 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 375 changing reward point from 2.4 to 19.239426679593596
+userCourserId 376 {
+  purchased_amount: 16.032855566327996,
+  reward_amount: 19.239426679593596
+}
+history course id 376 changing reward point from 2.4 to 19.239426679593596
+userCourserId 377 {
+  purchased_amount: 2004.1069457909994,
+  reward_amount: 2404.9283349491993
+}
+history course id 377 changing reward point from 2404.93 to 2404.9283349491993
+userCourserId 378 {
+  purchased_amount: 2005.879271495204,
+  reward_amount: 2407.0551257942448
+}
+history course id 378 changing reward point from 2407.06 to 2407.0551257942448
+userCourserId 379 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 379 changing reward point from 19.2616 to 19.26160132325079
+userCourserId 380 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 380 changing reward point from 2.4 to 19.26160132325079
+userCourserId 381 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 381 changing reward point from 2.4 to 19.26160132325079
+userCourserId 382 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 382 changing reward point from 2.4 to 19.26160132325079
+userCourserId 383 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 383 changing reward point from 2.4 to 19.26160132325079
+userCourserId 384 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 384 changing reward point from 2.4 to 19.26160132325079
+userCourserId 385 {
+  purchased_amount: 16.051334436042325,
+  reward_amount: 19.26160132325079
+}
+history course id 385 changing reward point from 2.4 to 19.26160132325079
+userCourserId 386 {
+  purchased_amount: 2037.4866824284074,
+  reward_amount: 2444.984018914089
+}
+history course id 386 changing reward point from 2444.98 to 2444.984018914089
+userCourserId 387 {
+  purchased_amount: 2032.6679176206044,
+  reward_amount: 2439.201501144725
+}
+history course id 387 changing reward point from 2439.2 to 2439.201501144725
+userCourserId 388 {
+  purchased_amount: 2034.950938316045,
+  reward_amount: 2441.941125979254
+}
+history course id 388 changing reward point from 2441.94 to 2441.941125979254
+userCourserId 389 {
+  purchased_amount: 2036.3295964704603,
+  reward_amount: 2443.595515764552
+}
+history course id 389 changing reward point from 2443.6 to 2443.595515764552
+userCourserId 390 {
+  purchased_amount: 2049.114949345658,
+  reward_amount: 2458.9379392147894
+}
+history course id 390 changing reward point from 2458.94 to 2458.9379392147894
+userCourserId 391 {
+  purchased_amount: 2078.2483967104913,
+  reward_amount: 2493.8980760525897
+}
+history course id 391 changing reward point from 2493.9 to 2493.8980760525897
+userCourserId 392 {
+  purchased_amount: 2080.3615539334737,
+  reward_amount: 2496.4338647201685
+}
+history course id 392 changing reward point from 2496.43 to 2496.4338647201685
+userCourserId 393 {
+  purchased_amount: 2072.7695045763057,
+  reward_amount: 2487.323405491567
+}
+history course id 393 changing reward point from 2487.32 to 2487.323405491567
+userCourserId 394 {
+  purchased_amount: 2070.247574451839,
+  reward_amount: 2484.2970893422066
+}
+history course id 394 changing reward point from 2484.3 to 2484.2970893422066
+userCourserId 395 {
+  purchased_amount: 2047.0236448432922,
+  reward_amount: 2456.4283738119507
+}
+history course id 395 changing reward point from 2456.43 to 2456.4283738119507
+userCourserId 396 {
+  purchased_amount: 16.396202108330385,
+  reward_amount: 19.675442529996463
+}
+history course id 396 changing reward point from 19.6754 to 19.675442529996463
+userCourserId 397 {
+  purchased_amount: 16.459656863786428,
+  reward_amount: 19.751588236543714
+}
+history course id 397 changing reward point from 19.7516 to 19.751588236543714
+userCourserId 398 {
+  purchased_amount: 16.202003459780038,
+  reward_amount: 19.442404151736046
+}
+history course id 398 changing reward point from 2.4 to 19.442404151736046
+userCourserId 399 {
+  purchased_amount: 16.227889960124923,
+  reward_amount: 19.473467952149907
+}
+history course id 399 changing reward point from 2.4 to 19.473467952149907
+userCourserId 400 {
+  purchased_amount: 16.249139817020055,
+  reward_amount: 19.498967780424067
+}
+history course id 400 changing reward point from 2.4 to 19.498967780424067
+userCourserId 401 {
+  purchased_amount: 2032.8127717609232,
+  reward_amount: 2439.375326113108
+}
+history course id 401 changing reward point from 2439.38 to 2439.375326113108
+userCourserId 402 {
+  purchased_amount: 16.367246675584138,
+  reward_amount: 19.640696010700964
+}
+history course id 402 changing reward point from 19.6407 to 19.640696010700964
+userCourserId 403 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 403 changing reward point from 19.6966 to 19.69662866894297
+userCourserId 404 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 404 changing reward point from 19.6966 to 19.69662866894297
+userCourserId 405 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 405 changing reward point from 2.4 to 19.69662866894297
+userCourserId 406 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 406 changing reward point from 19.6966 to 19.69662866894297
+userCourserId 407 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 407 changing reward point from 2.4 to 19.69662866894297
+userCourserId 408 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 408 changing reward point from 2.4 to 19.69662866894297
+userCourserId 409 {
+  purchased_amount: 16.41385722411914,
+  reward_amount: 19.69662866894297
+}
+history course id 409 changing reward point from 2.4 to 19.69662866894297
+userCourserId 410 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 410 changing reward point from 19.9069 to 19.906890539903262
+userCourserId 411 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 411 changing reward point from 19.9069 to 19.906890539903262
+userCourserId 412 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 412 changing reward point from 2.4 to 19.906890539903262
+userCourserId 413 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 413 changing reward point from 19.9069 to 19.906890539903262
+userCourserId 414 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 414 changing reward point from 2.4 to 19.906890539903262
+userCourserId 415 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 415 changing reward point from 2.4 to 19.906890539903262
+userCourserId 416 {
+  purchased_amount: 16.589075449919385,
+  reward_amount: 19.906890539903262
+}
+history course id 416 changing reward point from 2.4 to 19.906890539903262
+userCourserId 417 {
+  purchased_amount: 2034.5746378708493,
+  reward_amount: 2441.4895654450193
+}
+history course id 417 changing reward point from 2441.49 to 2441.4895654450193
+userCourserId 418 {
+  purchased_amount: 2078.7876933885373,
+  reward_amount: 2494.545232066245
+}
+history course id 418 changing reward point from 2494.55 to 2494.545232066245
+userCourserId 419 {
+  purchased_amount: 16.57554096620592,
+  reward_amount: 19.890649159447104
+}
+history course id 419 changing reward point from 19.8906 to 19.890649159447104
+userCourserId 420 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 420 changing reward point from 19.7482 to 19.748217636580975
+userCourserId 421 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 421 changing reward point from 2.4 to 19.748217636580975
+userCourserId 422 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 422 changing reward point from 2.4 to 19.748217636580975
+userCourserId 423 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 423 changing reward point from 2.4 to 19.748217636580975
+userCourserId 424 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 424 changing reward point from 2.4 to 19.748217636580975
+userCourserId 425 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 425 changing reward point from 2.4 to 19.748217636580975
+userCourserId 426 {
+  purchased_amount: 16.456848030484146,
+  reward_amount: 19.748217636580975
+}
+history course id 426 changing reward point from 2.4 to 19.748217636580975
+userCourserId 427 {
+  purchased_amount: 2028.6524431644898,
+  reward_amount: 2434.3829317973878
+}
+history course id 427 changing reward point from 2434.38 to 2434.3829317973878
+userCourserId 428 {
+  purchased_amount: 2037.5357500491893,
+  reward_amount: 2445.0429000590275
+}
+history course id 428 changing reward point from 2445.04 to 2445.0429000590275
+
+
+
+reward amount 

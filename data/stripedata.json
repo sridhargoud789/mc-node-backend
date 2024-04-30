@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "NOMBRE": "Sergio Pino",
+      "CORREO": "sergiopinoec@gmail.com",
+      "TELEFONO": "34 722 87 93 00",
+      "FORMA DE PAGO": "$1888",
+      "stripe_id": "crypto",
+      "__EMPTY": "pago completo en crypto",
+      "partialTime": 0
+    }
+  ]
+}

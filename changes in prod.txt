@@ -1,0 +1,454 @@
+Update Amount is id 707 change amount 2959 to 1948
+Update Amount is id 814 change amount 2959 to 1948
+Update Amount is id 829 change amount 2959 to 1987
+Update Amount is id 844 change amount 2959 to 1987
+Update Amount is id 874 change amount 2959 to 1987
+Update Amount is id 875 change amount 2959 to 1948
+Update Amount is id 879 change amount 2959 to 1948
+Update Amount is id 895 change amount 2959 to 1987
+Update Amount is id 896 change amount 2959 to 1948
+Update Amount is id 907 change amount 2959 to 1948
+Update Amount is id 909 change amount 2959 to 1948
+
+
+changes in user transaction table
+
+
+
+
+Update Amount is id 103 change amount 427 to 2993.927843092734
+Update Amount is id 104 change amount 427 to 2993.861159072414
+Update Amount is id 105 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 106 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 107 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 108 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 109 change amount 13895.33543024374 to 2776.269836842861
+Update Amount is id 110 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 111 change amount 13895.33543024374 to 2986.063527284387
+Update Amount is id 112 change amount 427 to 2977.8723102422255
+Update Amount is id 113 change amount 427 to 2971.6236311806756
+Update Amount is id 114 change amount 397 to 2762.844453345968
+Update Amount is id 115 change amount 427 to 2979.3361589709566
+Update Amount is id 116 change amount 427 to 2991.898976084553
+Update Amount is id 117 change amount 427 to 2991.966638613027
+Update Amount is id 118 change amount 427 to 3348.900247649947
+Update Amount is id 119 change amount 427 to 3348.900247649947
+Update Amount is id 120 change amount 427 to 3367.7476201737695
+Update Amount is id 121 change amount 397 to 2940.7820544254096
+Update Amount is id 122 change amount 427 to 3163.0073985885388
+Update Amount is id 123 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 124 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 125 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 126 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 127 change amount 14292.883799161014 to 2855.699480758391
+Update Amount is id 128 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 129 change amount 14292.883799161014 to 3071.4954112942896
+Update Amount is id 130 change amount 427 to 3230.906952761225
+Update Amount is id 131 change amount 427 to 3459.408988395794
+Update Amount is id 133 change amount 427 to 3399.3594615171355
+Update Amount is id 134 change amount 427 to 3436.8864794137553
+Update Amount is id 135 change amount 427 to 3520.4846346603335
+Update Amount is id 136 change amount 427 to 3520.4846346603335
+Update Amount is id 137 change amount 397 to 3272.160074548548
+Update Amount is id 138 change amount 427 to 3487.579018723087
+Update Amount is id 139 change amount 427 to 3442.389929770315
+Update Amount is id 140 change amount 427 to 3481.5688608853275
+Update Amount is id 141 change amount 427 to 3618.596619842767
+Update Amount is id 142 change amount 427 to 3573.8270238510663
+Update Amount is id 143 change amount 427 to 3576.198023386978
+Update Amount is id 144 change amount 427 to 3638.2115415316293
+Update Amount is id 145 change amount 427 to 3638.2115415316293
+Update Amount is id 146 change amount 397 to 3382.5994894333885
+Update Amount is id 147 change amount 427 to 3637.9713599359866
+Update Amount is id 148 change amount 17066.066988030285 to 3667.4436859028347
+Update Amount is id 149 change amount 17066.066988030285 to 3667.4436859028347
+Update Amount is id 150 change amount 17066.066988030285 to 3667.4436859028347
+Update Amount is id 151 change amount 17066.066988030285 to 3667.4436859028347
+Update Amount is id 152 change amount 17066.066988030285 to 3667.4436859028347
+Update Amount is id 153 change amount 427 to 3756.2143259456134
+Update Amount is id 154 change amount 427 to 3849.926533759349
+Update Amount is id 155 change amount 427 to 3846.138365937951
+Update Amount is id 156 change amount 427 to 3846.138365937951
+Update Amount is id 157 change amount 427 to 3846.138365937951
+Update Amount is id 158 change amount 427 to 3846.138365937951
+Update Amount is id 159 change amount 397 to 3575.91787184395
+Update Amount is id 160 change amount 427 to 3846.138365937951
+Update Amount is id 161 change amount 427 to 3846.138365937951
+Update Amount is id 162 change amount 427 to 3808.7126749883155
+Update Amount is id 163 change amount 427 to 3500.11514565223
+Update Amount is id 164 change amount 3221.25 to 3221.2545144290525
+Update Amount is id 165 change amount 3005.51 to 3005.5092554161993
+Update Amount is id 166 change amount 3232.63 to 3232.6258238355595
+Update Amount is id 167 change amount 3232.63 to 3232.6258238355595
+Update Amount is id 168 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 169 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 170 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 171 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 172 change amount 3010.32 to 3010.324748979353
+Update Amount is id 173 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 174 change amount 3237.81 to 3237.8052085999593
+Update Amount is id 175 change amount 3237.89 to 3237.89492100986
+Update Amount is id 176 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 177 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 178 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 179 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 180 change amount 3010.5 to 3010.4950082650316
+Update Amount is id 181 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 182 change amount 3237.99 to 3237.9883338266213
+Update Amount is id 183 change amount 2946.38 to 2946.3821736401815
+Update Amount is id 184 change amount 3187.13 to 3187.132456889873
+Update Amount is id 185 change amount 18922.3 to 4066.343001017366
+Update Amount is id 186 change amount 18922.3 to 4066.343001017366
+Update Amount is id 187 change amount 18922.3 to 4066.343001017366
+Update Amount is id 188 change amount 18922.3 to 4066.343001017366
+Update Amount is id 189 change amount 18922.3 to 3780.651455278441
+Update Amount is id 190 change amount 18922.3 to 4066.343001017366
+Update Amount is id 191 change amount 18922.3 to 4066.343001017366
+Update Amount is id 192 change amount 4066.05 to 4066.0515009511164
+Update Amount is id 193 change amount 4072.53 to 4072.533784456363
+Update Amount is id 194 change amount 4065.37 to 4065.367165253948
+Update Amount is id 195 change amount 4268.76 to 4268.758206693922
+Update Amount is id 196 change amount 4268.76 to 4268.758206693922
+Update Amount is id 197 change amount 4268.76 to 4268.758206693922
+Update Amount is id 198 change amount 4268.76 to 4268.758206693922
+Update Amount is id 199 change amount 3968.85 to 3968.845452125262
+Update Amount is id 200 change amount 4268.76 to 4268.758206693922
+Update Amount is id 201 change amount 4268.76 to 4268.758206693922
+Update Amount is id 202 change amount 4268.79 to 4268.792306723213
+Update Amount is id 203 change amount 4256.05 to 4256.050065932895
+Update Amount is id 204 change amount 4263.35 to 4263.354818133203
+Update Amount is id 205 change amount 4263.35 to 4263.354818133203
+Update Amount is id 206 change amount 4252.19 to 4252.193641572869
+Update Amount is id 214 change amount 4252.19 to 4252.193641572869
+Update Amount is id 215 change amount 4252.19 to 4252.193641572869
+Update Amount is id 216 change amount 4269.58 to 4269.582984372132
+Update Amount is id 217 change amount 4269.69 to 4269.693739527969
+Update Amount is id 218 change amount 4269.62 to 4269.618378185411
+Update Amount is id 219 change amount 4249.22 to 4249.218777181371
+Update Amount is id 220 change amount 4239.07 to 4239.065958947711
+Update Amount is id 221 change amount 4237.39 to 4237.387966131384
+Update Amount is id 222 change amount 4237.39 to 4237.387966131384
+Update Amount is id 223 change amount 4269.68 to 4269.680808910639
+Update Amount is id 224 change amount 4227.22 to 4227.220621119854
+Update Amount is id 225 change amount 4257.92 to 4257.916965396388
+Update Amount is id 226 change amount 4270.24 to 4270.240245103071
+Update Amount is id 227 change amount 4269.74 to 4269.739873207517
+Update Amount is id 228 change amount 4200.17 to 4200.170141862996
+Update Amount is id 229 change amount 4200.17 to 4200.170141862996
+Update Amount is id 230 change amount 4269.85 to 4269.8454956957985
+Update Amount is id 231 change amount 4237.44 to 4237.441318371191
+Update Amount is id 232 change amount 4250 to 4250.000983993898
+Update Amount is id 233 change amount 4250 to 4250.000983993898
+Update Amount is id 234 change amount 4215.67 to 4215.67077722678
+Update Amount is id 235 change amount 4105.81 to 4105.808783597645
+Update Amount is id 236 change amount 4105.81 to 4105.808783597645
+Update Amount is id 237 change amount 4105.81 to 4105.808783597645
+Update Amount is id 238 change amount 4105.81 to 4105.808783597645
+Update Amount is id 239 change amount 3817.34 to 3817.344466248864
+Update Amount is id 240 change amount 4105.81 to 4105.808783597645
+Update Amount is id 241 change amount 4105.81 to 4105.808783597645
+Update Amount is id 242 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 243 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 244 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 245 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 246 change amount 3801.93 to 3801.9300033342242
+Update Amount is id 247 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 248 change amount 4089.23 to 4089.2294998078432
+Update Amount is id 249 change amount 4146.36 to 4146.36153958163
+Update Amount is id 250 change amount 4144.84 to 4144.838039567766
+Update Amount is id 251 change amount 4110.51 to 4110.51332216449
+Update Amount is id 252 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 253 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 254 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 255 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 256 change amount 3784.89 to 3784.8939558122097
+Update Amount is id 257 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 258 change amount 4070.91 to 4070.9060935310163
+Update Amount is id 259 change amount 3794.21 to 3794.21488420219
+Update Amount is id 260 change amount 4156.91 to 4156.905849482993
+Update Amount is id 261 change amount 3969.53 to 3969.534053160046
+Update Amount is id 262 change amount 4237.12 to 4237.124363534641
+Update Amount is id 263 change amount 3938.01 to 3938.0056296530256
+Update Amount is id 264 change amount 4235.59 to 4235.587919047461
+Update Amount is id 265 change amount 4231.74 to 4231.743526613116
+Update Amount is id 266 change amount 4251.12 to 4251.117390422702
+Update Amount is id 267 change amount 4269.48 to 4269.480221457721
+Update Amount is id 268 change amount 19127.57 to 4110.454336066826
+Update Amount is id 269 change amount 19127.57 to 4110.454336066826
+Update Amount is id 270 change amount 19127.57 to 4110.454336066826
+Update Amount is id 271 change amount 19127.57 to 4110.454336066826
+Update Amount is id 272 change amount 19127.57 to 3821.6636332986645
+Update Amount is id 273 change amount 19127.57 to 4110.454336066826
+Update Amount is id 274 change amount 19127.57 to 4110.454336066826
+Update Amount is id 275 change amount 3998.42 to 3998.415208972166
+Update Amount is id 276 change amount 3934.82 to 3934.821587754518
+Update Amount is id 277 change amount 3851.05 to 3851.0539052202494
+Update Amount is id 278 change amount 3590.26 to 3590.2614795104228
+Update Amount is id 279 change amount 3610.2 to 3610.1959937928664
+Update Amount is id 280 change amount 3535.21 to 3535.2079422222764
+Update Amount is id 281 change amount 3568.89 to 3568.888551809147
+Update Amount is id 282 change amount 3568.89 to 3568.888551809147
+Update Amount is id 283 change amount 3568.89 to 3568.888551809147
+Update Amount is id 284 change amount 3568.89 to 3568.888551809147
+Update Amount is id 285 change amount 3318.15 to 3318.146967372907
+Update Amount is id 286 change amount 3568.89 to 3568.888551809147
+Update Amount is id 287 change amount 3568.89 to 3568.888551809147
+Update Amount is id 288 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 289 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 290 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 291 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 292 change amount 3309.81 to 3309.806065970239
+Update Amount is id 293 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 294 change amount 3559.92 to 3559.9173555901566
+Update Amount is id 295 change amount 3523.9 to 3523.9036574928396
+Update Amount is id 296 change amount 3588.72 to 3588.7196941795764
+Update Amount is id 297 change amount 3601.09 to 3601.0863843546854
+Update Amount is id 298 change amount 3611.67 to 3611.6697512449796
+Update Amount is id 299 change amount 3345.48 to 3345.478025077389
+Update Amount is id 300 change amount 3487.67 to 3487.667207565146
+Update Amount is id 301 change amount 3462.37 to 3462.3658052419955
+Update Amount is id 302 change amount 3432.31 to 3432.313771000807
+Update Amount is id 303 change amount 3481.93 to 3481.925642784001
+Update Amount is id 304 change amount 3481.93 to 3481.925642784001
+Update Amount is id 305 change amount 3481.93 to 3481.925642784001
+Update Amount is id 306 change amount 3481.93 to 3481.925642784001
+Update Amount is id 307 change amount 3549.99 to 3549.987478517033
+Update Amount is id 308 change amount 3549.99 to 3549.987478517033
+Update Amount is id 309 change amount 3541.38 to 3541.379271189366
+Update Amount is id 310 change amount 3541.38 to 3541.379271189366
+Update Amount is id 311 change amount 3541.38 to 3541.379271189366
+Update Amount is id 312 change amount 3541.38 to 3541.379271189366
+Update Amount is id 313 change amount 3292.57 to 3292.5704230964366
+Update Amount is id 314 change amount 3541.38 to 3541.379271189366
+Update Amount is id 315 change amount 3541.38 to 3541.379271189366
+Update Amount is id 316 change amount 3608.23 to 3608.232247997086
+Update Amount is id 317 change amount 3537.09 to 3537.0912910975526
+Update Amount is id 318 change amount 3537.09 to 3537.0912910975526
+Update Amount is id 319 change amount 3537.09 to 3537.0912910975526
+Update Amount is id 320 change amount 3537.09 to 3537.0912910975526
+Update Amount is id 321 change amount 3288.58 to 3288.5837062429237
+Update Amount is id 322 change amount 3537.09 to 3537.0912910975526
+Update Amount is id 323 change amount 3537.09 to 3537.0912910975526
+
+
+
+changes in user purchase amount for table history_course_user
+
+
+history course id 103 changing reward point from 512.4 to 3592.7134117112805
+history course id 104 changing reward point from 512.4 to 3592.633390886897
+history course id 105 changing reward point from 16674.4 to 3583.2762327412643
+
+history course id 106 changing reward point from 16674.4 to 3583.2762327412643
+history course id 107 changing reward point from 16674.4 to 3583.2762327412643
+history course id 108 changing reward point from 16674.4 to 3583.2762327412643
+history course id 109 changing reward point from 16674.4 to 3331.5238042114333
+history course id 110 changing reward point from 16674.4 to 3583.2762327412643
+history course id 111 changing reward point from 16674.4 to 3583.2762327412643
+history course id 112 changing reward point from 3573.45 to 3573.4467722906707
+history course id 113 changing reward point from 512.4 to 3565.9483574168107
+history course id 114 changing reward point from 476.4 to 3315.4133440151613
+history course id 115 changing reward point from 3575.2 to 3575.203390765148
+history course id 116 changing reward point from 3590.28 to 3590.2787713014636
+history course id 117 changing reward point from 3590.36 to 3590.3599663356326
+history course id 118 changing reward point from 512.4 to 4018.680297179936
+history course id 119 changing reward point from 512.4 to 4018.680297179936
+history course id 120 changing reward point from 512.4 to 4041.2971442085236
+history course id 121 changing reward point from 3528.94 to 3528.9384653104917
+history course id 122 changing reward point from 3795.61 to 3795.6088783062464
+history course id 123 changing reward point from 17151.5 to 3685.7944935531477
+history course id 124 changing reward point from 17151.5 to 3685.7944935531477
+history course id 125 changing reward point from 17151.5 to 3685.7944935531477
+history course id 126 changing reward point from 17151.5 to 3685.7944935531477
+history course id 127 changing reward point from 17151.5 to 3426.8393769100694
+history course id 128 changing reward point from 17151.5 to 3685.7944935531477
+history course id 129 changing reward point from 17151.5 to 3685.7944935531477
+history course id 130 changing reward point from 3877.09 to 3877.08834331347
+history course id 131 changing reward point from 4151.29 to 4151.290786074953
+history course id 133 changing reward point from 512.4 to 4079.2313538205626
+history course id 134 changing reward point from 512.4 to 4124.2637752965065
+history course id 135 changing reward point from 512.4 to 4224.5815615924
+history course id 136 changing reward point from 512.4 to 4224.5815615924
+history course id 137 changing reward point from 476.4 to 3926.5920894582578
+history course id 138 changing reward point from 512.4 to 4185.094822467704
+history course id 139 changing reward point from 512.4 to 4130.867915724379
+history course id 140 changing reward point from 512.4 to 4177.882633062393
+history course id 141 changing reward point from 512.4 to 4342.31594381132
+history course id 142 changing reward point from 512.4 to 4288.592428621279
+history course id 143 changing reward point from 512.4 to 4291.437628064374
+history course id 144 changing reward point from 512.4 to 4365.853849837955
+history course id 145 changing reward point from 512.4 to 4365.853849837955
+history course id 146 changing reward point from 476.4 to 4059.1193873200664
+history course id 147 changing reward point from 4365.57 to 4365.565631923184
+history course id 148 changing reward point from 20479.3 to 4400.932423083402
+history course id 149 changing reward point from 20479.3 to 4400.932423083402
+history course id 150 changing reward point from 20479.3 to 4400.932423083402
+history course id 151 changing reward point from 20479.3 to 4400.932423083402
+history course id 152 changing reward point from 20479.3 to 4400.932423083402
+history course id 153 changing reward point from 4507.46 to 4507.457191134736
+history course id 154 changing reward point from 4619.91 to 4619.9118405112185
+history course id 155 changing reward point from 512.4 to 4615.366039125542
+history course id 156 changing reward point from 512.4 to 4615.366039125542
+history course id 157 changing reward point from 512.4 to 4615.366039125542
+history course id 158 changing reward point from 512.4 to 4615.366039125542
+history course id 159 changing reward point from 476.4 to 4291.10144621274
+history course id 160 changing reward point from 512.4 to 4615.366039125542
+history course id 161 changing reward point from 512.4 to 4615.366039125542
+history course id 162 changing reward point from 4570.46 to 4570.455209985978
+history course id 163 changing reward point from 512.4 to 4200.138174782676
+history course id 164 changing reward point from 512.4 to 3865.505417314863
+history course id 165 changing reward point from 476.4 to 3606.6111064994393
+history course id 166 changing reward point from 512.4 to 3879.1509886026715
+history course id 167 changing reward point from 512.4 to 3879.1509886026715
+history course id 168 changing reward point from 512.4 to 3885.366250319951
+history course id 169 changing reward point from 512.4 to 3885.366250319951
+history course id 170 changing reward point from 512.4 to 3885.366250319951
+history course id 171 changing reward point from 512.4 to 3885.366250319951
+history course id 172 changing reward point from 476.4 to 3612.3896987752237
+history course id 173 changing reward point from 512.4 to 3885.366250319951
+history course id 174 changing reward point from 512.4 to 3885.366250319951
+history course id 175 changing reward point from 512.4 to 3885.473905211832
+history course id 176 changing reward point from 512.4 to 3885.586000591946
+history course id 177 changing reward point from 512.4 to 3885.586000591946
+history course id 178 changing reward point from 512.4 to 3885.586000591946
+history course id 179 changing reward point from 512.4 to 3885.586000591946
+history course id 180 changing reward point from 476.4 to 3612.594009918038
+history course id 181 changing reward point from 512.4 to 3885.586000591946
+history course id 182 changing reward point from 512.4 to 3885.586000591946
+history course id 183 changing reward point from 476.4 to 3535.6586083682178
+history course id 184 changing reward point from 3824.56 to 3824.558948267848
+history course id 185 changing reward point from 22706.8 to 4879.6116012208395
+history course id 186 changing reward point from 22706.8 to 4879.6116012208395
+history course id 187 changing reward point from 22706.8 to 4879.6116012208395
+history course id 188 changing reward point from 22706.8 to 4879.6116012208395
+history course id 189 changing reward point from 22706.8 to 4536.781746334129
+history course id 190 changing reward point from 22706.8 to 4879.6116012208395
+history course id 191 changing reward point from 22706.8 to 4879.6116012208395
+history course id 192 changing reward point from 4879.26 to 4879.26180114134
+history course id 193 changing reward point from 512.4 to 4887.040541347636
+history course id 194 changing reward point from 512.4 to 4878.440598304737
+history course id 195 changing reward point from 512.4 to 5122.509848032707
+history course id 196 changing reward point from 512.4 to 5122.509848032707
+history course id 197 changing reward point from 512.4 to 5122.509848032707
+history course id 198 changing reward point from 512.4 to 5122.509848032707
+history course id 199 changing reward point from 476.4 to 4762.614542550315
+history course id 200 changing reward point from 512.4 to 5122.509848032707
+history course id 201 changing reward point from 512.4 to 5122.509848032707
+history course id 202 changing reward point from 512.4 to 5122.550768067856
+history course id 203 changing reward point from 512.4 to 5107.2600791194745
+history course id 204 changing reward point from 512.4 to 5116.025781759843
+history course id 205 changing reward point from 512.4 to 5116.025781759843
+history course id 206 changing reward point from 512.4 to 5102.632369887442
+history course id 214 changing reward point from 512.4 to 5102.632369887442
+history course id 215 changing reward point from 512.4 to 5102.632369887442
+history course id 216 changing reward point from 512.4 to 5123.499581246559
+history course id 217 changing reward point from 512.4 to 5123.632487433563
+history course id 218 changing reward point from 512.4 to 5123.542053822493
+history course id 219 changing reward point from 512.4 to 5099.062532617645
+history course id 220 changing reward point from 512.4 to 5086.879150737253
+history course id 221 changing reward point from 512.4 to 5084.8655593576605
+history course id 222 changing reward point from 512.4 to 5084.8655593576605
+history course id 223 changing reward point from 512.4 to 5123.616970692767
+history course id 224 changing reward point from 5072.66 to 5072.6647453438245
+history course id 225 changing reward point from 512.4 to 5109.500358475666
+history course id 226 changing reward point from 512.4 to 5124.288294123686
+history course id 227 changing reward point from 512.4 to 5123.687847849021
+history course id 228 changing reward point from 512.4 to 5040.2041702355955
+history course id 229 changing reward point from 512.4 to 5040.2041702355955
+history course id 230 changing reward point from 512.4 to 5123.814594834958
+history course id 231 changing reward point from 512.4 to 5084.92958204543
+history course id 232 changing reward point from 512.4 to 5100.0011807926785
+history course id 233 changing reward point from 512.4 to 5100.0011807926785
+history course id 234 changing reward point from 512.4 to 5058.804932672136
+history course id 235 changing reward point from 512.4 to 4926.970540317174
+history course id 236 changing reward point from 512.4 to 4926.970540317174
+history course id 237 changing reward point from 512.4 to 4926.970540317174
+history course id 238 changing reward point from 512.4 to 4926.970540317174
+history course id 239 changing reward point from 476.4 to 4580.8133594986375
+history course id 240 changing reward point from 512.4 to 4926.970540317174
+history course id 241 changing reward point from 512.4 to 4926.970540317174
+history course id 242 changing reward point from 512.4 to 4907.075399769412
+history course id 243 changing reward point from 512.4 to 4907.075399769412
+history course id 244 changing reward point from 512.4 to 4907.075399769412
+history course id 245 changing reward point from 512.4 to 4907.075399769412
+history course id 246 changing reward point from 476.4 to 4562.316004001069
+history course id 247 changing reward point from 512.4 to 4907.075399769412
+history course id 248 changing reward point from 512.4 to 4907.075399769412
+history course id 249 changing reward point from 512.4 to 4975.633847497956
+history course id 250 changing reward point from 512.4 to 4973.805647481319
+history course id 251 changing reward point from 512.4 to 4932.615986597388
+history course id 252 changing reward point from 512.4 to 4885.0873122372195
+history course id 253 changing reward point from 512.4 to 4885.0873122372195
+history course id 254 changing reward point from 512.4 to 4885.0873122372195
+history course id 255 changing reward point from 512.4 to 4885.0873122372195
+history course id 256 changing reward point from 476.4 to 4541.872746974652
+history course id 257 changing reward point from 512.4 to 4885.0873122372195
+history course id 258 changing reward point from 512.4 to 4885.0873122372195
+history course id 259 changing reward point from 476.4 to 4553.057861042628
+history course id 260 changing reward point from 512.4 to 4988.287019379592
+history course id 261 changing reward point from 476.4 to 4763.440863792055
+history course id 262 changing reward point from 5084.55 to 5084.549236241569
+history course id 263 changing reward point from 476.4 to 4725.606755583631
+history course id 264 changing reward point from 512.4 to 5082.705502856953
+history course id 265 changing reward point from 5078.09 to 5078.09223193574
+history course id 266 changing reward point from 512.4 to 5101.340868507242
+history course id 267 changing reward point from 5123.38 to 5123.376265749265
+history course id 268 changing reward point from 22953.1 to 4932.545203280191
+history course id 269 changing reward point from 22953.1 to 4932.545203280191
+history course id 270 changing reward point from 22953.1 to 4932.545203280191
+history course id 271 changing reward point from 22953.1 to 4932.545203280191
+history course id 272 changing reward point from 22953.1 to 4585.996359958397
+history course id 273 changing reward point from 22953.1 to 4932.545203280191
+history course id 274 changing reward point from 22953.1 to 4932.545203280191
+history course id 275 changing reward point from 512.4 to 4798.098250766599
+history course id 276 changing reward point from 512.4 to 4721.785905305422
+history course id 277 changing reward point from 512.4 to 4621.2646862643
+history course id 278 changing reward point from 512.4 to 4308.313775412507
+history course id 279 changing reward point from 512.4 to 4332.2351925514395
+history course id 280 changing reward point from 512.4 to 4242.2495306667315
+history course id 281 changing reward point from 512.4 to 4282.666262170977
+history course id 282 changing reward point from 512.4 to 4282.666262170977
+history course id 283 changing reward point from 512.4 to 4282.666262170977
+history course id 284 changing reward point from 512.4 to 4282.666262170977
+history course id 285 changing reward point from 476.4 to 3981.7763608474884
+history course id 286 changing reward point from 512.4 to 4282.666262170977
+history course id 287 changing reward point from 512.4 to 4282.666262170977
+history course id 288 changing reward point from 512.4 to 4271.900826708188
+history course id 289 changing reward point from 512.4 to 4271.900826708188
+history course id 290 changing reward point from 512.4 to 4271.900826708188
+history course id 291 changing reward point from 512.4 to 4271.900826708188
+history course id 292 changing reward point from 476.4 to 3971.767279164287
+history course id 293 changing reward point from 512.4 to 4271.900826708188
+history course id 294 changing reward point from 512.4 to 4271.900826708188
+history course id 295 changing reward point from 4228.68 to 4228.684388991407
+history course id 296 changing reward point from 512.4 to 4306.463633015492
+history course id 297 changing reward point from 512.4 to 4321.303661225623
+history course id 298 changing reward point from 512.4 to 4334.003701493975
+history course id 299 changing reward point from 512.4 to 4014.5736300928666
+history course id 300 changing reward point from 512.4 to 4185.200649078175
+history course id 301 changing reward point from 512.4 to 4154.838966290395
+history course id 302 changing reward point from 512.4 to 4118.7765252009685
+history course id 303 changing reward point from 512.4 to 4178.310771340801
+history course id 304 changing reward point from 512.4 to 4178.310771340801
+history course id 305 changing reward point from 512.4 to 4178.310771340801
+history course id 306 changing reward point from 512.4 to 4178.310771340801
+history course id 307 changing reward point from 512.4 to 4259.98497422044
+history course id 308 changing reward point from 512.4 to 4259.98497422044
+history course id 309 changing reward point from 512.4 to 4249.65512542724
+history course id 310 changing reward point from 512.4 to 4249.65512542724
+history course id 311 changing reward point from 512.4 to 4249.65512542724
+history course id 312 changing reward point from 512.4 to 4249.65512542724
+history course id 313 changing reward point from 476.4 to 3951.0845077157237
+history course id 314 changing reward point from 512.4 to 4249.65512542724
+history course id 315 changing reward point from 512.4 to 4249.65512542724
+history course id 316 changing reward point from 512.4 to 4329.878697596503
+history course id 317 changing reward point from 512.4 to 4244.509549317063
+history course id 318 changing reward point from 512.4 to 4244.509549317063
+history course id 319 changing reward point from 512.4 to 4244.509549317063
+history course id 320 changing reward point from 512.4 to 4244.509549317063
+history course id 321 changing reward point from 476.4 to 3946.3004474915083
+history course id 322 changing reward point from 512.4 to 4244.509549317063
+history course id 323 changing reward point from 512.4 to 4244.509549317063
+
+
+changes in reward amount 
